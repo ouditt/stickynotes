@@ -1,10 +1,10 @@
-📝 #Sticky Notes Application
+## 📝 Sticky Notes Application
 
 The Sticky Notes application is a task management tool designed to help users efficiently organize and manage their tasks. It is built primarily using Python, with front-end components in HTML and CSS.
 
 Features
 
-🗂️ Task Management:
+# 🗂️ Task Management:
 
 📋 Create, read, update, and delete tasks.
 🗓️ Organize tasks with various attributes like due dates, priorities, and categories.
@@ -16,7 +16,8 @@ Features
 
 💾 Uses SQLite3 for storing task data.
 🔒 Ensures data persistence and reliability.
-Project Structure
+
+# Project Structure
 
 📈 CRUD Matrix.drawio: Diagram representing the Create, Read, Update, Delete operations for the application.
 📋 Task manager app sequence Diagram.drawio: Sequence diagram illustrating the workflow of the task management application.
@@ -48,7 +49,7 @@ Project Structure
 📋 task manager class Diagram.drawio: Class diagram depicting the structure of the application classes.
 Usage
 
-⚙️ Setup:
+# ⚙️ Setup:
 
 🧩 Clone the repository.
 📦 Install required dependencies.
@@ -59,4 +60,4 @@ Usage
 📋 Use the interface to manage your tasks effectively.
 This repository provides a comprehensive framework for a task management application with detailed diagrams illustrating the system's design and functionality.
 
-Note: For a complete view of the contents of the notes directory, please visit the sticky_notes/notes directory on GitHub. The contents listed include core modules and configurations essential for managing notes within the application.
+* Note: For a complete view of the contents of the notes directory, please visit the sticky_notes/notes directory on GitHub. The contents listed include core modules and configurations essential for managing notes within the application.
