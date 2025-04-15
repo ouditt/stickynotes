@@ -65,8 +65,3 @@ To use this diagram in Draw.io:
   </diagram>
 </mxfile>
 ```  
-
-To use this diagram in Draw.io:  
-1. Copy the XML from above.  
-2. In Draw.io, go to **File > Import From > Device** and choose to paste the XML.  
-3. The diagram will render the `Note`, `Author`, and `NoteForm` classes along with the defined relationships.
